@@ -1,0 +1,15 @@
+{
+  "name": "com.agava.loadingscreen",
+  "version": "0.0.1",
+  "displayName": "Loading Screen",
+  "unity": "2020.3",
+  "description": "Tool for creating a loading screen for switching between scenes.",
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Loading Screen Samples",
+      "description": "Contains examples of prefabs of loading screens and scenes for testing.",
+      "path": "Samples~/LoadingScreen"
+    }
+  ]
+}

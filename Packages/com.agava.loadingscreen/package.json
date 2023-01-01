@@ -9,7 +9,7 @@
     {
       "displayName": "Loading Screen Samples",
       "description": "Contains examples of prefabs of loading screens and scenes for testing.",
-      "path": "Samples~/LoadingScreen"
+      "path": "Samples~/Playtesting"
     }
   ]
 }

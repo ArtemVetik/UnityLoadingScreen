@@ -5,7 +5,7 @@ namespace Agava.LoadingScreen
     public interface ILoadingScreenView
     {
         IEnumerator Prepare();
-        void Update(float progress);
+        void Render(float progress);
         IEnumerator Completion();
         IEnumerator FinalizeLoading();
     }

@@ -69,11 +69,11 @@ namespace Agava.LoadingScreen
 
             while (operation.isDone == false)
             {
-                screenView.Update(operation.progress);
+                screenView.Render(operation.progress);
 
                 if (operation.progress >= 0.9f)
                 {
-                    screenView.Update(operation.progress);
+                    screenView.Render(operation.progress);
                     yield return screenView.Completion();
                     operation.allowSceneActivation = true;
                 }

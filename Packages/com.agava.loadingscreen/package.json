@@ -1,6 +1,6 @@
 {
   "name": "com.agava.loadingscreen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Loading Screen",
   "unity": "2020.3",
   "description": "Tool for creating a loading screen for switching between scenes.",
